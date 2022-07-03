@@ -1,3 +1,4 @@
+<img src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="webdevlopment" />    
 <h1 align="center">Hi 👋, I'm Raunak Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
