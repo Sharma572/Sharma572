@@ -1,5 +1,19 @@
  <p align="center"> <img width="60%" src=https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif alt="webdevlopmentp-2" /> </p>
-<h1 align="center">Hi 👋, I'm Raunak Sharma</h1>
+🙋‍♂️ About Me
+
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Raunak+Sharma!;Web+Developer...;" style="max-width: 100%;">
+
+<br/>
+I'm a Tech-savvy and research-oriented web developer with an innate propensity for learning.
+<br/>
+ 
+
+<!-- <h1 align="center">Hi 👋, I'm Raunak Sharma</h1>
+<h3 align="center">A passionate web developer from India</h3> -->
+
+
+
+
 <h3 align="center">A passionate frontend developer from New Delhi, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharma572&label=Profile%20views&color=0e75b6&style=flat" alt="sharma572" /> </p>
